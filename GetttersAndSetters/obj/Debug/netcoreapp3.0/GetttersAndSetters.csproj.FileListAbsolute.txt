@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\bin\Debug\netcoreapp3.0\GetttersAndSetters.exe
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\bin\Debug\netcoreapp3.0\GetttersAndSetters.deps.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\bin\Debug\netcoreapp3.0\GetttersAndSetters.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\bin\Debug\netcoreapp3.0\GetttersAndSetters.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\bin\Debug\netcoreapp3.0\GetttersAndSetters.dll
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\bin\Debug\netcoreapp3.0\GetttersAndSetters.pdb
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\obj\Debug\netcoreapp3.0\GetttersAndSetters.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\obj\Debug\netcoreapp3.0\GetttersAndSetters.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\obj\Debug\netcoreapp3.0\GetttersAndSetters.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\obj\Debug\netcoreapp3.0\GetttersAndSetters.dll
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\GetttersAndSetters\obj\Debug\netcoreapp3.0\GetttersAndSetters.pdb
