@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\bin\Debug\netcoreapp3.0\MovieSettersGetters.exe
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\bin\Debug\netcoreapp3.0\MovieSettersGetters.deps.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\bin\Debug\netcoreapp3.0\MovieSettersGetters.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\bin\Debug\netcoreapp3.0\MovieSettersGetters.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\bin\Debug\netcoreapp3.0\MovieSettersGetters.dll
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\bin\Debug\netcoreapp3.0\MovieSettersGetters.pdb
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\obj\Debug\netcoreapp3.0\MovieSettersGetters.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\obj\Debug\netcoreapp3.0\MovieSettersGetters.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\obj\Debug\netcoreapp3.0\MovieSettersGetters.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\obj\Debug\netcoreapp3.0\MovieSettersGetters.dll
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MovieSettersGetters\obj\Debug\netcoreapp3.0\MovieSettersGetters.pdb
