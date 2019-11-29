@@ -77,9 +77,46 @@ namespace MovieSettersGetters
             foreach(string line in listFromFile)
             {
                 string[] tempArray = line.Split('/');
-                
-                
+                string tempTitle = tempArray[0];
+                string tempDir = tempArray[1];
+                string tempRating = tempArray[2];
+                int tempUserRating = int.Parse(tempArray[3]);
+
+                Movie tempMovieObject = new Movie(tempTitle, tempDir, tempRating, tempUserRating);
+                listOfMovies.Add(tempMovieObject);                
             }
+
+            int i = 1;
+            foreach (Movie movieObject in listOfMovies)
+            {
+                Console.WriteLine($"Item {i}: {movieObject.Title} directed by {movieObject.Director}");
+                i++;
+            }
+
+            Console.WriteLine("Enter the key word: ");
+            string userSearch = Console.ReadLine().ToLower();
+
+            List<Movie> searchResult = new List<Movie>();
+
+            //int searchResult = 0;
+            foreach(Movie movieObject in listOfMovies)
+            {
+                if (movieObject.Title.ToLower().Contains(userSearch))
+                {
+                    searchResult.Add(movieObject);
+                    
+                    // searchResult++;
+                }
+            }
+
+            Console.WriteLine($"{searchResult.Count} movies found");
+            foreach (Movie movieObject in searchResult)
+            {
+                Console.WriteLine($"{movieObject.Title} directed by {movieObject.Director} ");
+            }
+
+            Console.ReadLine();
+
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.exe
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.deps.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.dll
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.pdb
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.dll
+C:\Users\julia.voronetskaja\source\repos\GetttersAndSetters\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.pdb

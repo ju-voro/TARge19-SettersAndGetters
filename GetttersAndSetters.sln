@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetttersAndSetters", "GetttersAndSetters\GetttersAndSetters.csproj", "{2974D861-4554-4B4A-8726-C878201988B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSettersGetters", "MovieSettersGetters\MovieSettersGetters.csproj", "{97BC175D-84B0-4A34-8629-3CDF01E39CE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieSettersGetters", "MovieSettersGetters\MovieSettersGetters.csproj", "{97BC175D-84B0-4A34-8629-3CDF01E39CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrjoshkaProject", "MatrjoshkaProject\MatrjoshkaProject.csproj", "{0EA4FE1A-F227-4AD3-B37F-8CA80044FA36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{97BC175D-84B0-4A34-8629-3CDF01E39CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97BC175D-84B0-4A34-8629-3CDF01E39CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97BC175D-84B0-4A34-8629-3CDF01E39CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA4FE1A-F227-4AD3-B37F-8CA80044FA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA4FE1A-F227-4AD3-B37F-8CA80044FA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA4FE1A-F227-4AD3-B37F-8CA80044FA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA4FE1A-F227-4AD3-B37F-8CA80044FA36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
